@@ -1,10 +1,3 @@
-.container{
-    display: flex;
-    flex-direction: column;
-    align-items:center 
-
-}
-.container>Button{
-    background-color: black;
+.alterNateStyle{
     max-width: 100px;
 }
