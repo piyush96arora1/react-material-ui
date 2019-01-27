@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-
+import DemoUi from './DemoUi'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-          Hello
+          <DemoUi></DemoUi>
       </div>
     );
   }
